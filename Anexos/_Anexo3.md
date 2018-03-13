@@ -37,7 +37,9 @@ El análisis matemático mediante series de Fourier es una potente herramienta, 
     + Nota: La frecuencia de la señal generada coincide con la del 1º armónico.
 + Por otro lado nos permite contabilizar los armónicos provocados, pudiendo así hacer un cálculo real de la potencia consumida.
     + Nota: El triángulo de potencias tan común en teoría de circuitos, se transforma en un cuadrángulo de potencias, como el que muestra la siguiente imagen:
+    
 ![Cuadrángulo](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/Cuadrangulo.png)
+
 Donde las magnitudes con subíndice 1 se refieren a las del primer armónico, la nueva potencia que añade el resto de armónicos es la de distorsión (D) y el consumo que nos cobrará la compañía eléctrica será el debido a la potencia aparente total consumida (S).
 
 ### Explicación:
@@ -60,7 +62,7 @@ Cuyos valores a0, ak y bk se calculan aplicando:
 ![Par_2p=2pi_Valores](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/Impar_2pi%3D2pi_Valores.PNG)
 ![Par_2pi=2pi](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/Impar_2pi%3D2pi.PNG)
 + *Funciones periódicas de periodo 2p≠2π.*
-    + **General:**La forma general de la serie será del tipo:
+    + **General:** La forma general de la serie será del tipo:
 ![General_2pNO=2pi](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/General_2piNO%3D2pi.PNG)
 Cuyos valores a0, ak y bk se calculan aplicando:
 ![General_2pNO=2pi_Valores](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/General_2piNO%3D2pi_Valores.PNG)

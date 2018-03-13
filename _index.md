@@ -21,12 +21,14 @@
 
 ---
 ### El porqué.
-La electrónica de potencia surge por la necesidad imperiosa de controlar la corriente alterna. Tiene tres grandes aplicaciones:
+La electrónica de potencia surge por la necesidad imperiosa de controlar la corriente alterna. Tiene multitud de aplicaciones, algunas de ellas son:
+
 - Fuentes de alimentación.
 - Calentamiento por inducción
 - **Control de motores de corriente alterna**
+- **Soporte a energías renovables**
 
-Esta última es "la guinda del pastel" de la electrónica de potencia y es la aplicación en la que se centrará toda la asignatura.
+Estas dos última son "la guinda del pastel" de la electrónica de potencia y son las aplicaciones en las que se centrará toda la asignatura.
 
 ### Objetivo, cómo lo consigue y con qué.
 
