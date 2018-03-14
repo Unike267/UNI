@@ -44,7 +44,7 @@ Donde las magnitudes con subíndice 1 se refieren a las del primer armónico, la
 
 ### Explicación:
 Antes de empezar debemos saber que:
-+ Para que resulte más cómo la formulación posterior, llamamos 2p al periodo (T) de la señal periódica que vallamos a tratar, es decir, T=2p. De tal manera que si T es 2π, 2p será igualmente 2π y p será π.
++ Para que resulte más cómodo la formulación posterior, llamamos 2p al periodo (T) de la señal periódica que vallamos a tratar, es decir, T=2p. De tal manera que si T es 2π, 2p será igualmente 2π y p será π.
 + Debemos tener presentes los conceptos de [paridad de una función](https://es.wikipedia.org/wiki/Paridad_de_una_funci%C3%B3n "IMPORTANTE DIFERENCIAR ENTRE PAR E IMPAR"), ya que si la función es par o impar, se simplifica el cálculo y **nos ahorramos utilizar la forma general.**
 + Las serie está formada por 3 valores que hemos de calcular. Uno correspondiente a la componente continua a0 y otros dos ak y bk correspondientes a la serie infinita de senos y cosenos.
 + Primero calculamos los valores nombrados y seguidamente construimos la serie con ellos.
