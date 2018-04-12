@@ -71,4 +71,4 @@ Cuyos valores a0, ak y bk se calculan aplicando:
     + **Función impar:** Si la función es impar se simplifica a:
 ![Impar_2pNO=2pi](https://raw.githubusercontent.com/Unike267/Photos/master/UNI-Photos/potencia/Impar_2piNO%3D2pi.PNG)
 
-Nota: Los resultados de ak y bk quedarán en función del parámetro k, el cual se sustituirá en la serie por un número natural, comenzando con el uno (k=1, 1º armónico) y avanzando sucesivamente en orden, alargando la serie tantas veces como nos interese. 
+Nota: Los resultados de ak y bk quedarán en función del parámetro k, el cual se sustituirá en la serie por un número natural, comenzando con el uno (k=1, 1º armónico) y avanzando sucesivamente en orden, alargamos la serie tantas veces como nos interese. 
