@@ -47,7 +47,7 @@ Estas dos última son "la guinda del pastel" de la electrónica de potencia y so
 
 La electrónica de potencia consta de dos etapas, etapa de control y etapa de potencia, **aisladas eléctricamente** entre sí.
 - **Etapa de control**: Es la etapa encargada del control, definiendo control como **la decisión sobre el CUÁNDO encender o apagar los interruptores de potencia**.
-Parece una tontería, pero regulando el cuándo, obtenemos el control sobre las formas de onda que llegan a nuestras cargas. Variando estas formas de onda, con la adecuada modulación, conseguiremos control absoluto sobre nuestros motores electricos, tanto en velocidad como en par.
+Parece una tontería, pero regulando el cuándo, obtenemos el control sobre las formas de onda que llegan a nuestras cargas. Variando estas formas de onda, con la adecuada modulación, conseguiremos control absoluto sobre nuestros motores eléctricos, tanto en velocidad como en par.
 Las decisiones sobre el cuándo las toma un algoritmo implementado en un microcontrolador.
 Trabaja a bajo voltaje entre 3.3 V y 5 V.
 
